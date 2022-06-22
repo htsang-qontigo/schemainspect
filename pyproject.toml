@@ -1,16 +1,16 @@
 [tool.poetry]
 name = "schemainspect"
-version = "3.1"
-authors = ["Robert Lechte <robertlechte@gmail.com>"]
-license = "Unlicense"
+version = "3.1.967"
+authors = ["Robert Lechte <robertlechte@gmail.com>", "htsang-qontigo <htsang@qontigo.com>"]
+license = ""
 readme = "README.md"
 description = "Schema inspection for PostgreSQL (and possibly others)"
 
-repository = "https://github.com/djrobstep/schemainspect"
-homepage = "https://github.com/djrobstep/schemainspect"
+repository = "https://github.com/htsang-qontigo/schemainspect"
+homepage = ""
 
 [tool.poetry.dependencies]
-python = ">=3.7,<4"
+python = ">=3.7,<3.10"
 sqlalchemy = "*"
 
 [tool.poetry.dev-dependencies]
