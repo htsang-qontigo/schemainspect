@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "schemainspect"
-version = "3.1.967"
+version = "3.967.1663587362"
 authors = ["Robert Lechte <robertlechte@gmail.com>", "htsang-qontigo <htsang@qontigo.com>"]
 license = ""
 readme = "README.md"
